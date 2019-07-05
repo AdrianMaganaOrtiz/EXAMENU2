@@ -23,3 +23,4 @@ async function crearProducto(){
     console.log("Producto Creado");
     console.log(crearproducto);
 }
+crearProducto();
